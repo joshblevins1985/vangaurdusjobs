@@ -15,4 +15,9 @@ class DashboardController extends Controller
 
         return view('dashboard.index');
     }
+
+    public function home()
+    {
+        return view('layouts.minable');
+    }
 }
