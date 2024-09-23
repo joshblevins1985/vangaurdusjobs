@@ -214,7 +214,7 @@ Hero Area
                     </div>
                 </div>
                 <div class="th-hero-img">
-                    <img src="/assets/minable/img/trend-up.avif" alt="">
+                    <img src="{{url('assets/minable/img/agent.png')}}" alt="">
                 </div>
             </div>
             <div class="swiper-slide">
@@ -659,7 +659,7 @@ Contact Area
                     <div class="widget footer-widget">
                         <h3 class="widget_title style2 text-white">About Company</h3>
                         <div class="th-widget-about style2">
-                            <p class="about-text">Centric aplications productize before front end vortals visualize front end is results and value added</p>
+                            <p class="about-text">Connecting Top Talent with Leading Insurance Firms to Drive Success and Innovation</p>
                             <div class="th-social">
                                 <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
                                 <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
