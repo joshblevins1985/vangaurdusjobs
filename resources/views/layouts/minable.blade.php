@@ -5,9 +5,9 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>US Insurance Jobs</title>
-    <meta name="author" content="Themeholy">
-    <meta name="description" content="Webteck - Technology & IT Solutions HTML Template">
-    <meta name="keywords" content="Webteck - Technology & IT Solutions HTML Template">
+    <meta name="author" content="Medidex Solutions">
+    <meta name="description" content="US Insurance Jobs">
+    <meta name="keywords" content="USA, INSURANCE, JOBS, RECRUIT">
     <meta name="robots" content="INDEX,FOLLOW">
 
     <!-- Mobile Specific Metas -->
@@ -119,7 +119,7 @@
         <div class="th-mobile-menu">
             <ul>
                 <li class="menu-item-has-children mega-menu-wrap">
-                    <a href="#">Home</a>
+                    <a href="/">Home</a>
                 </li>
                 <li><a href="about.html">About Us</a></li>
                 <li class="menu-item-has-children">
@@ -180,11 +180,12 @@
                         <nav class="main-menu style2 d-none d-lg-inline-block">
                             <ul>
                                 <li class="menu-item-has-children mega-menu-wrap">
-                                    <a href="index.html">Home</a>
+                                    <a href="/home">Home</a>
                                 </li>
                                 <li><a href="#about-sec">About Us</a></li>
                                 <li><a href="#service-sec">Services</a></li>
                                 <li><a href="#contact-sec">Contact Us</a></li>
+                                <li><a href="/login">Login</a></li>
 
                             </ul>
                         </nav>

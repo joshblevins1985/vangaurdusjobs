@@ -3,7 +3,7 @@
 /**
  * Authentication
  */
-Route::get('/', 'DashboardController@home');
+Route::get('/home', 'DashboardController@home');
 Route::get('login', 'Auth\LoginController@show');
 Route::post('login', 'Auth\LoginController@login');
 Route::get('logout', 'Auth\LoginController@logout')->name('auth.logout');
