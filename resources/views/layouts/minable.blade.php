@@ -249,7 +249,7 @@ Hero Area
                     </div>
                 </div>
                 <div class="th-hero-img">
-                    <img src="{{url('assets/minable/img/trend-up.avif')}}" alt="">
+                    <img src="{{url('assets/minable/img/agent.png')}}" alt="">
                 </div>
             </div>
         </div>
@@ -284,7 +284,7 @@ Servce Area
 Counter Area
 ==============================-->
 
-About Area
+<!--About Area
 ==============================-->
 <div class="about-area3 overflow-hidden " id="about-sec" data-pos-for=".team-area6" data-sec-pos="bottom-half">
     <div class="container th-container4">
@@ -330,9 +330,12 @@ About Area
             </div>
         </div>
     </div>
-</div><!--==============================
+</div>
+
+<!--==============================
 Team Area
 ==============================-->
+
 <section class="team-area6 space">
     <div class="container th-container4">
         <div class="title-area text-center">
