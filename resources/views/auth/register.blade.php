@@ -41,11 +41,11 @@
                         </div>
                         <div class="form-group">
                             <label for="first_name"><i class="zmdi zmdi-account material-icons-name"></i></label>
-                            <input type="text" name="email" id="first_name" value="{{ old('first_name') }}" placeholder="Your First Name"/>
+                            <input type="text" name="first_name" id="first_name" value="{{ old('first_name') }}" placeholder="Your First Name"/>
                         </div>
                         <div class="form-group">
                             <label for="last_name"><i class="zmdi zmdi-account material-icons-name"></i></label>
-                            <input type="text" name="email" id="last_name" value="{{ old('last_name') }}" placeholder="Your Lat Name"/>
+                            <input type="text" name="last_name" id="last_name" value="{{ old('last_name') }}" placeholder="Your Lat Name"/>
                         </div>
                         <div class="form-group">
                             <label for="password"><i class="zmdi zmdi-lock"></i></label>
