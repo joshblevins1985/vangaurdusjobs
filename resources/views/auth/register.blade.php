@@ -29,6 +29,8 @@
                 <div class="signin-form">
                     <h2 class="form-title">Sign up</h2>
                     <form action="<?= url('register') ?>" method="post" id="registration-form" autocomplete="off" class="register-form">
+                        <input type="hidden" value="<?= csrf_token() ?>" name="_token">
+
                         <div class="form-group">
                             <label for="email"><i class="zmdi zmdi-account material-icons-name"></i></label>
                             <input type="text" name="email" id="email" value="{{ old('email') }}" placeholder="Your Email"/>
