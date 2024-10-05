@@ -32,11 +32,11 @@
                         <input type="hidden" value="<?= csrf_token() ?>" name="_token">
 
                         <div class="form-group">
-                            <label for="email"><i class="zmdi zmdi-account material-icons-name"></i></label>
+                            <label for="email"><i class="zmdi zmdi-account material-email"></i></label>
                             <input type="text" name="email" id="email" value="{{ old('email') }}" placeholder="Your Email"/>
                         </div>
                         <div class="form-group">
-                            <label for="username"><i class="zmdi zmdi-account material-icons-name"></i></label>
+                            <label for="username"><i class="zmdi zmdi-account material-account-circle"></i></label>
                             <input type="text" name="username" id="username" value="{{ old('username') }}" placeholder="Your Username"/>
                         </div>
                         <div class="form-group">
