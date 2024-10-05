@@ -207,8 +207,8 @@ Hero Area
                         <div class="hero-style12">
                             <h1 class="hero-title" data-ani="slideinup" data-ani-delay="0.6s"> Job Matching <span class="text-theme fw-normal">Solutions,</span> Made Easy </h1>
                             <div class="btn-group" data-ani="slideinup" data-ani-delay="0.9s">
-                                <a href="about.html" class="th-btn style3 style-radius text-capitalize">Get In Touch</a>
-                                <a href="contact.html" class="th-btn blue-border style-radius text-capitalize">Learn
+                                <a href="#contact-sec" class="th-btn style3 style-radius text-capitalize">Get In Touch</a>
+                                <a href="#contact-sec" class="th-btn blue-border style-radius text-capitalize">Learn
                                     More</a>
                             </div>
                         </div>
@@ -224,15 +224,15 @@ Hero Area
                         <div class="hero-style12">
                             <h1 class="hero-title" data-ani="slideinup" data-ani-delay="0.6s"> Insurance Job <span class="text-theme fw-normal">Matched</span> For You </h1>
                             <div class="btn-group" data-ani="slideinup" data-ani-delay="0.9s">
-                                <a href="about.html" class="th-btn style3 style-radius text-capitalize">Get In Touch</a>
-                                <a href="contact.html" class="th-btn blue-border style-radius text-capitalize">Learn
+                                <a href="#contact-sec" class="th-btn style3 style-radius text-capitalize">Get In Touch</a>
+                                <a href="#contact-sec" class="th-btn blue-border style-radius text-capitalize">Learn
                                     More</a>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="th-hero-img">
-                    <img src="/assets/minable/img/hero/hero_img_11_2.jpg" alt="">
+                    <img src="{{url('assets/minable/img/agent.png')}}" alt="">
                 </div>
             </div>
             <div class="swiper-slide">
@@ -241,8 +241,8 @@ Hero Area
                         <div class="hero-style12">
                             <h1 class="hero-title" data-ani="slideinup" data-ani-delay="0.6s"> Your Job Search Ends Here <span class="text-theme fw-normal">You're Matched</span> </h1>
                             <div class="btn-group" data-ani="slideinup" data-ani-delay="0.9s">
-                                <a href="about.html" class="th-btn style3 style-radius text-capitalize">Get In Touch</a>
-                                <a href="contact.html" class="th-btn blue-border style-radius text-capitalize">Learn
+                                <a href="#contact-secl" class="th-btn style3 style-radius text-capitalize">Get In Touch</a>
+                                <a href="#contact-sec" class="th-btn blue-border style-radius text-capitalize">Learn
                                     More</a>
                             </div>
                         </div>
