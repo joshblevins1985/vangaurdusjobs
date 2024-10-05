@@ -16,7 +16,7 @@
 
 <div class="main">
 
-
+    @include('partials/messages')
     <!-- Sing in  Form -->
     <section class="sign-in">
         <div class="container">
