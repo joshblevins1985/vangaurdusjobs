@@ -25,7 +25,7 @@
 </div>
 
     <div class="row">
-        @role('applicant')
+        @role('admin')
             <div class="col-lg-12">
                 Hello Applicant
             </div>
