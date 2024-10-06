@@ -24,6 +24,14 @@
     @endforeach
 </div>
 
+    <div class="row">
+        @role('applicant')
+            <div class="col-lg-12">
+                Hello Applicant
+            </div>
+        @endrole
+    </div>
+
 @stop
 
 @section('scripts')
